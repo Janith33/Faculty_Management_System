@@ -6,10 +6,10 @@ if (session_status() === PHP_SESSION_NONE) {
 
 // Database Configuration - Only define if not already defined
 if (!defined('DB_HOST')) {
-    define('DB_HOST', 'sql311.infinityfree.com');
-    define('DB_USER', 'if0_42443687');
-    define('DB_PASS', '9lgkK5wQ4BkXN');
-    define('DB_NAME', 'if0_42443687_faculty_system');
+    define('DB_HOST', 'localhost');
+    define('DB_USER', 'root');
+    define('DB_PASS', '');
+    define('DB_NAME', 'faculty_management');
 }
 
 // Create connection only if not already created
@@ -27,6 +27,6 @@ if (!isset($conn)) {
 
 // Define base URL for redirects
 if (!defined('BASE_URL')) {
-    define('BASE_URL', 'http://localhost/FMS%20NEW/');
+    define('BASE_URL', 'http://localhost/FMS/');
 }
 ?>
