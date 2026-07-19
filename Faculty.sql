@@ -1,6 +1,6 @@
 -- Create Database
-CREATE DATABASE IF NOT EXISTS if0_42435112_faculty_management;
-USE if0_42435112_faculty_management;
+CREATE DATABASE IF NOT EXISTS if0_42443687_faculty_system;
+USE if0_42443687_faculty_system;
 
 -- Users table for authentication
 CREATE TABLE users (

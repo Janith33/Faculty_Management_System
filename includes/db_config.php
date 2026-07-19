@@ -6,10 +6,10 @@ if (session_status() === PHP_SESSION_NONE) {
 
 // Database Configuration - Only define if not already defined
 if (!defined('DB_HOST')) {
-    define('DB_HOST', 'sql303.infinityfree.com');
-    define('DB_USER', 'if0_42435112');
-    define('DB_PASS', 'Y8AZbCuFWAQJ');
-    define('DB_NAME', 'if0_42435112_faculty_management');
+    define('DB_HOST', 'sql311.infinityfree.com');
+    define('DB_USER', 'if0_42443687');
+    define('DB_PASS', '9lgkK5wQ4BkXN');
+    define('DB_NAME', 'if0_42443687_faculty_system');
 }
 
 // Create connection only if not already created
