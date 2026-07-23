@@ -12,6 +12,7 @@ CREATE TABLE users (
     role ENUM('Admin', 'Faculty', 'Staff', 'Student') DEFAULT 'Faculty',
     department VARCHAR(100),
     position VARCHAR(100),
+
     service_no VARCHAR(50),
     nic VARCHAR(20),
     address TEXT,

@@ -27,6 +27,6 @@ if (!isset($conn)) {
 
 // Define base URL for redirects
 if (!defined('BASE_URL')) {
-    define('BASE_URL', 'http://localhost/FMS%20NEW/');
+    define('BASE_URL', 'http://localhost/FMS/');
 }
 ?>
