@@ -68,10 +68,19 @@ Contributions are welcome. To contribute:
 
 ## Live Demo
 
-The repository description indicates the web page is live. If you have a live demo URL, add it here.
+The repository description indicates the web page is live. 
 
 ## Contact
 
 Maintainer: Janith33
 
 ## Screenshots
+
+<img width="1908" height="868" alt="FMS" src="https://github.com/user-attachments/assets/af5a14c3-b024-49d3-b7db-9e2bd31c5c37" />
+
+<img width="1920" height="876" alt="FMS2" src="https://github.com/user-attachments/assets/c094b1ea-5452-48d0-a54e-d6cb6266b2f2" />
+
+<img width="1920" height="867" alt="FMS3" src="https://github.com/user-attachments/assets/340cd495-e6b3-4ff3-b7d2-c3072c7c6876" />
+
+
+
