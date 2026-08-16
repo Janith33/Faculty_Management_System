@@ -15,15 +15,14 @@ Faculty Management System is a web-based application to manage faculty informati
 
 ## Technology Stack
 
-- PHP
-- Hack
-- HTML/CSS
-- MySQL (recommended) or another relational database
+- Backend  ------> PHP
+- Database ------> MySQL (recommended) or another relational database
+- Frontend ------> HTML/CSS/JavaScript
 
 ## Requirements
 
 - PHP 7.4+ (or the version supported by this project)
-- A web server (Apache, Nginx) or PHP built-in server
+- A web server (Apache) or PHP built-in server
 - MySQL or compatible database
 
 ## Getting Started (Local)
@@ -47,7 +46,6 @@ Faculty Management System is a web-based application to manage faculty informati
 
    http://localhost:8000
 
-Notes: If the project uses a different structure or configuration file, adjust steps above accordingly.
 
 ## Project Structure
 
@@ -72,12 +70,8 @@ Contributions are welcome. To contribute:
 
 The repository description indicates the web page is live. If you have a live demo URL, add it here.
 
-## License
-
-If you have a preferred license, add it here (e.g., MIT, Apache-2.0). If not specified, consider adding an open-source license.
-
 ## Contact
 
 Maintainer: Janith33
 
-If you'd like, I can add or customize sections (installation details, database schema, screenshots, usage examples, or a license).
+## Screenshots
